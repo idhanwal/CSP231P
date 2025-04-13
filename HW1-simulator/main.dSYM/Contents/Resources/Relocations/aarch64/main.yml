@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ishandhanwal/Documents/Courses/Parallel/hw1_code_template/main'
+relocations:     []
+...
